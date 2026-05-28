@@ -28,7 +28,7 @@ In order to use the Grade API, you will need to sign up a new username, and obta
 To sign up a username, we are going to make a simple request to the Grade API.
 
 1. Go to https://hoppscotch.io. This is a tool like Postman, which can be used to quickly interact with APIs. (Of course, you can use Postman, we just want to show your two available tools you can use. The API documentation is on Postman)
-2. Beside the word GET, replace `https://echo.hoppscotch.io/` with `API_BASE_URL`.
+2. Beside the word GET, replace `https://echo.hoppscotch.io/` with `API_BASE_URL/signUp`.
 
 Next, we need to specify the username which we want to use. To do this, we add a parameter.
 
